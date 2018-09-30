@@ -1,0 +1,7 @@
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BridgePattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BridgePattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BridgePattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BridgePattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BridgePattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BridgePattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BridgePattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb

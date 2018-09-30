@@ -1,0 +1,7 @@
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\ProxyPattern\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\ProxyPattern\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb

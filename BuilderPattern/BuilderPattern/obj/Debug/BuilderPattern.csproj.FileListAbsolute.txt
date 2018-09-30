@@ -1,0 +1,7 @@
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderPattern\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
